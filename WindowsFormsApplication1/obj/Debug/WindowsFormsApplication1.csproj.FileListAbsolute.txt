@@ -8,3 +8,10 @@ D:\程序\测试程序包\青岛串口服务器测试\WindowsFormsApplication1\W
 D:\程序\测试程序包\青岛串口服务器测试\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
 D:\程序\测试程序包\青岛串口服务器测试\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 D:\程序\测试程序包\青岛串口服务器测试\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\程序\测试程序包\青岛串口服务器测试\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\程序\测试程序包\青岛串口服务器测试\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\程序\测试程序包\青岛串口服务器测试\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+D:\程序\测试程序包\青岛串口服务器测试\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\程序\测试程序包\青岛串口服务器测试\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\程序\测试程序包\青岛串口服务器测试\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+D:\程序\测试程序包\青岛串口服务器测试\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
